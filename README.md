@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 🌱 A highly skilled and results-oriented .NET developer with experience in designing, developing, and deploying software applications with Angular front-end. 
 
-🚀 Proficient in<h3>C#</h3>,<h3>ASP.NET</h3>,<h3>MVC</h3>,<h3>SQLServer</h3>and<h3>Angular</h3>with a solid understanding of <h3>object-oriented programming principles</h3> and agile methodologies. Demonstrated ability to work collaboratively with cross-functional teams to deliver high-quality software solutions that meet or exceed customer expectations. 
+🚀 Proficient in<h3>C#, ASP.NET,MVC, SQLServer and Angular</h3>with a solid understanding of <h3>object-oriented programming principles</h3> and agile methodologies. Demonstrated ability to work collaboratively with cross-functional teams to deliver high-quality software solutions that meet or exceed customer expectations. 
 
 
 <!-- 🌱 Seeking a software developer position where I can utilize my technical expertise and problem-solving skills to contribute to the growth and success of the organization while leveraging my Angular front-end experience to build high-quality user interfaces. -->
