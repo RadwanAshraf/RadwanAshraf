@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwanashraf&label=Profile%20views&color=0e75b6&style=flat" alt="radwanashraf" /> </p>
 
-  <img align="right" alt="GIF" src="/RadwanAshraf/DevGif.gif" width="330" height="220" />
+  <img align="right" alt="GIF" src="DevGif.gif" width="330" height="220" />
 
  <h3>🚀 About Me </h3>
  
 🌱 A highly skilled and results-oriented .NET developer with experience in designing, developing, and deploying software applications with Angular front-end. 
 
-🚀 Proficient in<h3>C#, ASP.NET,MVC, SQLServer and Angular</h3>with a solid understanding of <h3>object-oriented programming principles</h3> and agile methodologies. Demonstrated ability to work collaboratively with cross-functional teams to deliver high-quality software solutions that meet or exceed customer expectations. 
+🚀 Proficient in<h3>C#, .NETCore, MVC, SQLServer and Angular</h3>with a solid understanding of <h3>object-oriented programming principles</h3> and agile methodologies. Demonstrated ability to work collaboratively with cross-functional teams to deliver high-quality software solutions that meet or exceed customer expectations. 
 
 
 <!-- 🌱 Seeking a software developer position where I can utilize my technical expertise and problem-solving skills to contribute to the growth and success of the organization while leveraging my Angular front-end experience to build high-quality user interfaces. -->
