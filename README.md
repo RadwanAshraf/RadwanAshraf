@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Radwan Ashraf</h1>
-<h3 align="left">I'm a software engineer from Egypt</h3>
-<h3>👨‍💻 work as a fullstack web developer and a freelance software engineer.</h3>
+<h3 align="left">⚡ I'm a software engineer from Egypt</h3>
+<h3>👨‍💻 work as a fullstack web developer and a freelance software engineer</h3>
 <h3>🎓 Graduate from computer science Ain-Shams University Cairo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwanashraf&label=Profile%20views&color=0e75b6&style=flat" alt="radwanashraf" /> </p>
