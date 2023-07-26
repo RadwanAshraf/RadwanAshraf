@@ -24,10 +24,13 @@ Here are some ideas to get you started:
 
  <h3>🚀 About Me </h3>
  
-🌱 A highly skilled and results-oriented .NET developer with experience in designing, developing, and deploying software applications with Angular front-end. 
-<img align="right" alt="GIF" src="DevGif.gif" width="330" height="220" />
+🌱 A highly skilled and results-oriented software engineer with experience in designing, developing, and deploying software applications with .NETCore and Angular. 
 
-🚀 Proficient in<h3>C#, .NETCore, MVC, SQLServer and Angular</h3>with a solid understanding of object-oriented programming principles and agile methodologies. Demonstrated ability to work collaboratively with cross-functional teams to deliver high-quality software solutions that meet or exceed customer expectations. 
+
+
+🚀 Proficient in<h3>C#, .NETCore, MVC, SQLServer and Angular</h3>
+<img align="right" alt="GIF" src="DevGif.gif" width="330" height="220" />
+with a solid understanding of object-oriented programming principles and agile methodologies. Demonstrated ability to work collaboratively with cross-functional teams to deliver high-quality software solutions that meet or exceed customer expectations. 
 
 
 <!-- 🌱 Seeking a software developer position where I can utilize my technical expertise and problem-solving skills to contribute to the growth and success of the organization while leveraging my Angular front-end experience to build high-quality user interfaces. -->
