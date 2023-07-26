@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Radwan Ashraf</h1>
-<h3 align="left">I'm a software engineer from Egypt, I have gained extensive experience in the field of software development. With my expertise as a fullstack web developer and a freelance software engineer, I have worked with a diverse range of clients and projects, delivering exceptional results every time. .My passion for technology and problem-solving has driven me to continuously learn and stay up-to-date with the latest advancements in the industry.  </h3>
+<h3 align="left">I'm a software engineer from Egypt 🇪🇬</h3>
+<h3>👨‍💻 work as a fullstack web developer and a freelance software engineer.</h3>
+<h3>🎓 Graduate from computer science Ain-Shams University Cairo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwanashraf&label=Profile%20views&color=0e75b6&style=flat" alt="radwanashraf" /> </p>
 
